@@ -1,0 +1,11 @@
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\bin\Debug\netcoreapp3.0\Exercici_Variables.exe
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\bin\Debug\netcoreapp3.0\Exercici_Variables.deps.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\bin\Debug\netcoreapp3.0\Exercici_Variables.runtimeconfig.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\bin\Debug\netcoreapp3.0\Exercici_Variables.runtimeconfig.dev.json
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\bin\Debug\netcoreapp3.0\Exercici_Variables.dll
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\bin\Debug\netcoreapp3.0\Exercici_Variables.pdb
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\obj\Debug\netcoreapp3.0\Exercici_Variables.csprojAssemblyReference.cache
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\obj\Debug\netcoreapp3.0\Exercici_Variables.AssemblyInfoInputs.cache
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\obj\Debug\netcoreapp3.0\Exercici_Variables.AssemblyInfo.cs
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\obj\Debug\netcoreapp3.0\Exercici_Variables.dll
+C:\Users\binay\OneDrive\Escritorio\Redo of Exercises\Exercici_Variables\Exercici_Variables\obj\Debug\netcoreapp3.0\Exercici_Variables.pdb
