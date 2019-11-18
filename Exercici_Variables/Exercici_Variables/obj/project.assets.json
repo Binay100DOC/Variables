@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\binay\\OneDrive\\Escritorio\\Redo of Exercises\\Exercici_Variables\\Exercici_Variables\\Exercici_Variables.csproj",
+      "projectUniqueName": "C:\\Users\\binay\\OneDrive\\Escritorio\\Cloned Files\\Variables\\Exercici_Variables\\Exercici_Variables\\Exercici_Variables.csproj",
       "projectName": "Exercici_Variables",
-      "projectPath": "C:\\Users\\binay\\OneDrive\\Escritorio\\Redo of Exercises\\Exercici_Variables\\Exercici_Variables\\Exercici_Variables.csproj",
+      "projectPath": "C:\\Users\\binay\\OneDrive\\Escritorio\\Cloned Files\\Variables\\Exercici_Variables\\Exercici_Variables\\Exercici_Variables.csproj",
       "packagesPath": "C:\\Users\\binay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\binay\\OneDrive\\Escritorio\\Redo of Exercises\\Exercici_Variables\\Exercici_Variables\\obj\\",
+      "outputPath": "C:\\Users\\binay\\OneDrive\\Escritorio\\Cloned Files\\Variables\\Exercici_Variables\\Exercici_Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\binay\\AppData\\Roaming\\NuGet\\NuGet.Config",
